@@ -1,0 +1,13 @@
+table {
+    border-collapse: separate;
+    border-spacing: 20px 40px;
+}
+
+table {
+    border: 2px solid coral;
+    box-sizing: border-box;
+    height: 110px;
+    width: 250px;
+    margin-left: 850px;
+    border: medium solid blue;
+}
