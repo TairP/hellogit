@@ -1,0 +1,1 @@
+<scriptsrc="main.js"></script>
